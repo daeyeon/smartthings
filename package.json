@@ -1,0 +1,10 @@
+{
+  "name": "smartthing",
+  "version": "1.0.0",
+  "iotjs": {
+    "version": ">=1.0"
+  },
+  "description": "SmartThings for IoT.js",
+  "main": "smartthing.js",
+  "license": "Apache 2.0"
+}
